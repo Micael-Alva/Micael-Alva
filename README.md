@@ -12,7 +12,7 @@
 
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Blog](https://img.shields.io/badge/git-red?logo=git)
+![Blog](https://img.shields.io/badge/GIT-1572B6?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ### Inspirado no saber, sempre em busca de aprender cada vez mais.
