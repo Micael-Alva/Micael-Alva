@@ -1,4 +1,4 @@
-## Bem vindo eu sou o  Micael, tudo bém ? 👋
+/  ## Bem vindo eu sou o  Micael, tudo bém ? 👋
 
 ![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael-Alva&show_icons=true&theme=radical)
 
@@ -11,6 +11,8 @@
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Blog](https://img.shields.io/badge/git-red?logo=git)
 </div>
 
 ### Inspirado no saber, sempre em busca de aprender cada vez mais.
