@@ -1,6 +1,4 @@
-/  ## Bem vindo eu sou o  Micael, tudo bém ? 👋
-
-![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael-Alva&show_icons=true&theme=radical)
+Bem vindo eu sou o  Micael, tudo bém ? 👋
 
 ### Tecnologia que utilizo no meu dia a dia
 
